@@ -1,7 +1,7 @@
-
 # DingPhong
-- 👋 Hi, I’m @dingphong
-#About
+👋 Hi, I’m @dingphong
+
+## About
 📫 **How to reach me:** [nguyendinhphong1518@gmail.com](mailto:nguyendinhphong1518@gmail.com)  
 🌍 **LinkedIn:** [nguyendinh1518](https://www.linkedin.com/in/nguyendinh1518/)
 
