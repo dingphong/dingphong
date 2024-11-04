@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @dingphong
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-dingphong/dingphong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# DingPhong
+- 👋 Hi, I’m @dingphong
+#About
+📫 **How to reach me:** [nguyendinhphong1518@gmail.com](mailto:nguyendinhphong1518@gmail.com)  
+🌍 **LinkedIn:** [nguyendinh1518](https://www.linkedin.com/in/nguyendinh1518/)
+
+## Technology
+![Technologies](https://via.placeholder.com/600x200.png?text=Java,+Spring,+Maven,+.NET,+MySQL,+Docker,+HTML/CSS,+JavaScript)
